@@ -44,18 +44,6 @@ jupyter notebook Edge\ Detection/code.ipynb
 python Translation+Rotation+Stereo_camera/code.py
 ```
 
-## Upcoming Topics
-
-**More exciting computer vision topics coming soon!**
-
-- **Feature Detection**: Harris corners, SIFT, ORB
-- **Machine Learning**: Object detection, CNN, Face recognition
-- **Video Processing**: Motion detection, tracking, stabilization
-- **3D Vision**: Structure from Motion, SLAM, Point clouds
-- **Specialized Apps**: Medical imaging, AR, Autonomous vehicles
-- **Advanced Processing**: Segmentation, registration, enhancement
-
-
 ## License
 
 MIT License - see [LICENSE](LICENSE) file for details.
