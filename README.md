@@ -1,8 +1,8 @@
-# Computer Vision Fundamentals 🚀
+# Computer Vision Fundamentals
 
 A comprehensive collection of computer vision algorithms and techniques with practical implementations and visual demonstrations.
 
-## 🚀 Current Projects
+## Current Projects
 
 ### 1. Edge Detection 📐
 **Location**: `Edge Detection/`
@@ -23,7 +23,7 @@ Advanced edge detection and image processing:
 - Stereo vision simulation
 - Physics-based animation
 
-## 🛠 Technologies
+## Technologies
 
 - Python 3.8+
 - OpenCV (cv2)
@@ -31,7 +31,7 @@ Advanced edge detection and image processing:
 - Jupyter Notebook
 - Matplotlib
 
-## 📦 Quick Start
+## Quick Start
 
 ```bash
 # Install dependencies
@@ -44,7 +44,7 @@ jupyter notebook Edge\ Detection/code.ipynb
 python Translation+Rotation+Stereo_camera/code.py
 ```
 
-## 🔮 Upcoming Topics
+## Upcoming Topics
 
 **More exciting computer vision topics coming soon!**
 
@@ -55,19 +55,13 @@ python Translation+Rotation+Stereo_camera/code.py
 - **Specialized Apps**: Medical imaging, AR, Autonomous vehicles
 - **Advanced Processing**: Segmentation, registration, enhancement
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Open a Pull Request
-
-## 📄 License
+## License
 
 MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-**⭐ Star this repository if you found it helpful!**
+**Star this repository if you found it helpful!**
 
-*Stay tuned for more exciting computer vision topics! 🚀*
+*Stay tuned for more exciting computer vision topics! *
