@@ -4,7 +4,7 @@ A comprehensive collection of computer vision algorithms and techniques with pra
 
 ## Current Projects
 
-### 1. Edge Detection 📐
+### 1. Edge Detection
 **Location**: `Edge Detection/`
 
 Advanced edge detection and image processing:
@@ -14,7 +14,7 @@ Advanced edge detection and image processing:
 - Histogram Analysis
 - Multi-level Edge Detection
 
-### 2. 3D Rendering & Stereo Vision 🎮
+### 2. 3D Rendering & Stereo Vision
 **Location**: `Translation+Rotation+Stereo_camera/`
 
 3D computer vision techniques:
